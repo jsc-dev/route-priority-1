@@ -1,6 +1,6 @@
 {
-    "name": "langaner/route-priority",
-    "description": "Package to add priority to Laravel 5 routes",
+    "name": "jsc-dev/route-priority-1",
+    "description": "Package to add priority to Laravel 5 routes. Fork of langaner/route-priority",
     "keywords": ["laravel", "route", "priority"],
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "5.4.*|5.5.*"
+        "illuminate/support": "5.4.*|5.5.*|5.6.*"
     },
     "autoload": {
         "psr-4": {
